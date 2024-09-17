@@ -1,12 +1,63 @@
 body{
     all: unset;
     background-color: #EFEFEF;
+    font-family: 'Montserrat';
 }
 
 header{
     padding: 36px 61px 0px 61px;
+    margin-bottom: 195px;
+}
+
+main{
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+}
+
+h1{
+    font-size: 48pt;
+}
+
+p{
+    text-indent: 1.5rem;
 }
 
 #header-title{
-    
+    width: 100%;
+    text-align: center;
+    margin: 34px;
+}
+
+#header-title > h1{
+    margin: 0px;
+}
+
+#header-title > hr{
+    border: 7px solid rgb(24, 24, 24);
+    border-radius: 100px;
+    width: 451px;
+    margin-top: 10px;
+}
+
+#main-title > hr{
+    border: 7px solid rgb(24, 24, 24);
+    border-radius: 100px;
+    width: 371px;
+}
+
+#main-title{
+    text-align: center;
+}
+
+article{
+    display: flex;
+    flex-direction: column;
+    width: 1318px;
+    align-self: center;
+    justify-self: center;
+}
+
+article > a{
+    font-weight: bold;
 }

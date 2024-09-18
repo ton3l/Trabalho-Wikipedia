@@ -16,6 +16,7 @@ main{
 }
 
 h1{
+    font-family: 'Montserrat';
     font-size: 48pt;
 }
 
@@ -26,7 +27,6 @@ p{
 #header-title{
     width: 100%;
     text-align: center;
-    margin: 34px;
 }
 
 #header-title > h1{
@@ -48,6 +48,15 @@ p{
 
 #main-title{
     text-align: center;
+}
+
+#languages{
+    margin: auto;
+}
+
+.logo{
+    width: 316.76px;
+    margin: 36px;
 }
 
 article{

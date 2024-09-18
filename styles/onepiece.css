@@ -1,0 +1,8 @@
+@import "./main.css";
+
+.content-container{
+    background-color: white;
+    width: calc(100% - 122px);
+    height: calc(100% - 316.76px);
+    margin: auto;
+}

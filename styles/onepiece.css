@@ -1,8 +1,11 @@
 @import "./main.css";
 
-.content-container{
-    background-color: white;
-    width: calc(100% - 122px);
-    height: calc(100% - 316.76px);
+p{
+    width: 1200px;
     margin: auto;
+    margin-top: 1em;
+}
+
+a{
+    color: black;
 }

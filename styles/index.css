@@ -53,3 +53,11 @@ main{
     margin: auto;
 }
 
+footer{
+    width: 100%;
+    text-align: center;
+    text-decoration: underline;
+    font-weight: bold;
+    margin-top: 59px;
+    margin-bottom: 240.92px;
+}

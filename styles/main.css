@@ -33,6 +33,7 @@ p{
     height: auto;
     margin: auto;
     padding: 20px 70px 20px 70px;
+    margin-bottom: 89px;
 }
 
 .content-container > h1{
@@ -66,5 +67,6 @@ main{
 
 .logo{
     width: 316.76px;
+    height: 73px;
     margin: 36px;
 }
